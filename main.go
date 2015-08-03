@@ -130,7 +130,7 @@ func GetManifest(manifests Manifests, num int) (manifest string) {
 }
 
 func Nth(manifests Manifests, num int) {
-    fmt.Println(GetManifest(manifests, num))
+    fmt.Println(GetManifest(manifests, num - 1))
     os.Exit(0)
 }
 
