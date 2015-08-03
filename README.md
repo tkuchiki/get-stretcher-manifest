@@ -1,6 +1,20 @@
 # get-stretcher-manifest
 Get manifest file (See: https://github.com/fujiwara/stretcher)
 
+# Installation
+
+## Linux
+
+```
+$ curl -sLO https://github.com/tkuchiki/get-stretcher-manifest/releases/download/v0.0.1/get-manifest-linux-amd64.zip
+```
+
+
+## Mac OSX
+```
+$ curl -sLO https://github.com/tkuchiki/get-stretcher-manifest/releases/download/v0.0.1/get-manifest-darwin-amd64.zip
+```
+
 # Build
 
 ```
